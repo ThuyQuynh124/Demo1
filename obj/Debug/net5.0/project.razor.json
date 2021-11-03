@@ -15619,6 +15619,11 @@
   "RootNamespace": "DemoNetCore",
   "Documents": [
     {
+      "FilePath": "c:\\NetCore\\DemoNetCore\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NetCore\\DemoNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15646,6 +15651,11 @@
     {
       "FilePath": "c:\\NetCore\\DemoNetCore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NetCore\\DemoNetCore\\Views\\HelloWorld\\Demo.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Demo.cshtml",
       "FileKind": "mvc"
     },
     {
